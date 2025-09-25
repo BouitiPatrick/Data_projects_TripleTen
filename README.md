@@ -2,7 +2,8 @@
 
 Welcome! This repository contains my core TripleTen Business Intelligence & Analytics projects. Each project has a consistent README structure so reviewers can quickly assess scope, methods, and results.
 
-## Table of Contents
+## Table of Content
+0. [Project_Status_Report](https://github.com/BouitiPatrick/Data_projects_TripleTen/tree/main/Project_Status_Report)
 1. [Superstore Product Returns (Tableau)](./01_superstore_returns/README.md)
 2. [Zomato Customer Segmentation (Power BI)](./02_zomato_segmentation/README.md)
 3. [SQL Sales Insights](./03_sql_sales_insights/README.md)
