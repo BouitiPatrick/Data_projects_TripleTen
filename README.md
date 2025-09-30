@@ -6,7 +6,7 @@ Welcome! This repository contains my core TripleTen Business Intelligence & Anal
 1. [Superstore Product Returns Analysis](https://github.com/BouitiPatrick/Data_projects_TripleTen/tree/main/01_superstore_product_returns)
 2. [Zomato Customer Segmentation](https://github.com/BouitiPatrick/Data_projects_TripleTen/tree/main/02_Zomato_Customer_segmentation)
 3. [SQL Sales Insights](https://github.com/BouitiPatrick/Data_projects_TripleTen/tree/main/03_SQL_Sales_Insights)
-4. [Python Data Analysis](./04-python-data-analysis/README.md)
+4. [Python Data Analysis](https://github.com/BouitiPatrick/Data_projects_TripleTen/tree/main/04_Python_Data_Analysis)
 
 ## 📊 Projects
 
