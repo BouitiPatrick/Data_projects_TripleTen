@@ -10,7 +10,7 @@
 - **Analysis Approach:** Identify return patterns by product category, customer segment, and seasonality
 
 ## 📊 Results & Visualizations
-*[Add screenshots of your Tableau dashboards here]*
+*[https://github.com/BouitiPatrick/Data_projects_TripleTen/blob/main/Images/Superstore%20Product%20Returns%20Analysis.png]*
 
 ## ✅ Conclusion
 **Key Findings:**
