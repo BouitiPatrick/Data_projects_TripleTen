@@ -10,7 +10,7 @@
 - **Analysis Approach:** Customer segmentation based on demographics, order frequency, and spending patterns
 
 ## 📊 Results & Visualizations
-*[Add screenshots of your Power BI dashboards here]*
+*[https://github.com/BouitiPatrick/Data_projects_TripleTen/blob/main/Images/Zomato_Customer_Segmentation%20.png]*
 
 ## ✅ Conclusion
 **Key Findings:**
